@@ -1,5 +1,5 @@
 Note:
-This project is currently in development. Please feel free to follow along, but be aware that it may not yet be fully functional. Contributions and suggestions are welcome!
+This project is currently in development. Please feel free to follow along, but be aware that it may not yet be fully functional. 
 
 
 # DesignSeasons
