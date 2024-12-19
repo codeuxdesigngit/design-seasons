@@ -1,3 +1,7 @@
+Note:
+This project is currently in development. Please feel free to follow along, but be aware that it may not yet be fully functional. Contributions and suggestions are welcome!
+
+
 # DesignSeasons
 DesignSeasons is a tool that helps UX designers create aesthetically harmonious color palettes based on the 12 Seasonal Color Types. Each palette contains a curated selection of up to 300 colors that are carefully chosen to work together in harmony, making it easier for designers to create visually cohesive products.
 
